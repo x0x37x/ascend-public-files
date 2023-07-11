@@ -9,7 +9,7 @@ return {
 	Koa = "Koa",
 	Test = "Test",
 	Fir = "Fir",
-	Pine = "Pine"
+	Pine = "Pine",
 	Volcano = "Lava",
 	GreenSwampy = "Green",
 	CaveCrawler = "Blue",
