@@ -1,0 +1,23 @@
+return {
+	Oak = "Elm",
+	Walnut = "Walnut",
+	Cherry = "Cherry",
+	SnowGlow = "Yellow",
+	Pink = "Pink",
+	Generic = "Oak",
+	Birch = "Birch",
+	Koa = "Koa",
+	Test = "Test",
+	Fir = "Fir",
+	Pine = "Pine"
+	Volcano = "Lava",
+	GreenSwampy = "Green",
+	CaveCrawler = "Blue",
+	Palm = "Palm",
+	GoldSwampy = "Gold",
+	Frost = "Ice",
+	Spooky = "Spook",
+	SpookyNeon = "Sinister",
+  Sign = "Sign",
+	LoneCave = "Phantom",
+}
